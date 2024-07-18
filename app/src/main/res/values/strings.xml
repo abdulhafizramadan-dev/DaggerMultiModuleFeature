@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger Multi Module Feature</string>
+    <string name="title_detail_screen">Detail Screen</string>
+</resources>
